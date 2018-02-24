@@ -1,0 +1,32 @@
+
+*{
+    box-sizing: border-box;
+    margin:0px;
+}
+body{
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+
+.p1{
+    margin-right: 50px;
+    margin-left: 80px;
+    text-align: left;
+}
+.p2{
+    margin-right:80px;
+    margin-left: 100px;
+    text-align: left;
+}
+.xanalar{
+    width: 160px;
+    height: 160px;
+    background-color: rgba(233, 249, 250, 0.76);
+    border: 5px solid black;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
